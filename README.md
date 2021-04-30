@@ -1,4 +1,4 @@
-# jQuery-Animated-Square
+# jQuery Animated Square
 jQuery animation using the animate() method 🟥
 
 ## Syntax
@@ -13,3 +13,5 @@ Breakdown of the sample animation:
   
 Queues:
 I wrote multiple .animate() methods that created a queue running different properties sequentially.
+
+Enjoy 🚀
